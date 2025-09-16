@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Miiine")(type "KiCad")(uri "/home/mira/src/pcbs/mhardware/Miiine.kicad_sym")(options "")(descr ""))
+)
