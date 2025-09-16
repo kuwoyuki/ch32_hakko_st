@@ -45,7 +45,8 @@
 #define TEMP_CONVERSION_SHIFT 8
 #define ADC_FILTER_SHIFT 5
 #define MIN_SETTABLE_TEMP_C 50
-#define HEATUP_BOOST_THRESHOLD_C 50 // below set-point
+// below set-point
+#define HEATUP_BOOST_THRESHOLD_C 50
 
 // error thresholds
 #define ADC_SHORT_CIRCUIT_THRESHOLD 50
